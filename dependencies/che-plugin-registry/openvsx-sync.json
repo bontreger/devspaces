@@ -136,5 +136,14 @@
     },
     {
         "id": "eamodio.gitlens"
+    },
+    {
+        "id": "asciidoctor.asciidoctor-vscode"
+    },
+    {
+        "id": "vscodevim.vim"
+    },
+    {
+        "id": "genuitecllc.codetogether"
     }
 ]
